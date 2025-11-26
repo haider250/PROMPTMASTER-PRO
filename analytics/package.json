@@ -1,0 +1,12 @@
+{
+  "name": "analytics",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@clickhouse/client": "^1.14.0",
+    "influxdb-client": "^0.0.1",
+    "kafka-node": "^5.0.0",
+    "prometheus-api-metrics": "^4.0.0",
+    "socket.io": "^4.8.1"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "extends": "../tsconfig.json",
+  "compilerOptions": {
+    "composite": true,
+    "outDir": "dist",
+    "rootDir": "src",
+    "baseUrl": ".",
+    "paths": {
+      "~backend/*": ["./src/*"],
+      "~shared/*": ["../shared/*"]
+    }
+  },
+  "references": [
+    { "path": "../shared" } // Reference the shared workspace
+  ],
+  "include": ["src/**/*.ts", "src/**/*.d.ts"], // Exclude shared as it's now a reference
+  "exclude": ["node_modules", "dist"]
+}

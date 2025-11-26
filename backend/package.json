@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@stdlib/stats": "^0.3.3",
+    "@tensorflow/tfjs-node": "^4.22.0",
+    "@types/node": "^24.10.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^5.1.0",
+ "supabse"
+    "gpt-3-encoder": "^1.1.4",
+    "ml-kmeans": "^7.0.0",
+    "ml-random-forest": "^2.1.0",
+    "ml-regression": "^6.3.0",
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^8.2.0"
+  }
+}
