@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://promptmaster-pro.com/</loc>
+    <lastmod>2025-12-14T20:08:27Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://promptmaster-pro.com/og-image.png</image:loc>
+      <image:title>PromptMaster Pro - AI Prompt Engineering Platform</image:title>
+      <image:caption>Professional AI prompt generation with statistical intelligence</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Prompt Generator -->
+  <url>
+    <loc>https://promptmaster-pro.com/generate</loc>
+    <lastmod>2025-12-14T20:08:27Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://promptmaster-pro.com/prompt-generator-preview.png</image:loc>
+      <image:title>AI Prompt Generator Tool</image:title>
+      <image:caption>Generate optimized AI prompts with real-time statistics</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Prompt Library -->
+  <url>
+    <loc>https://promptmaster-pro.com/library</loc>
+    <lastmod>2025-12-14T20:08:27Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://promptmaster-pro.com/prompt-library-preview.png</image:loc>
+      <image:title>AI Prompt Library</image:title>
+      <image:caption>Comprehensive collection of 51+ professional prompts</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Dashboard -->
+  <url>
+    <loc>https://promptmaster-pro.com/dashboard</loc>
+    <lastmod>2025-12-14T20:08:27Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Analytics -->
+  <url>
+    <loc>https://promptmaster-pro.com/analytics</loc>
+    <lastmod>2025-12-14T20:08:27Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Pricing -->
+  <url>
+    <loc>https://promptmaster-pro.com/pricing</loc>
+    <lastmod>2025-12-14T20:08:27Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://promptmaster-pro.com/pricing-preview.png</image:loc>
+      <image:title>PromptMaster Pro Pricing Plans</image:title>
+      <image:caption>Free and premium pricing options for all users</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Authentication -->
+  <url>
+    <loc>https://promptmaster-pro.com/auth</loc>
+    <lastmod>2025-12-14T20:08:27Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Help Center -->
+  <url>
+    <loc>https://promptmaster-pro.com/help</loc>
+    <lastmod>2025-12-14T20:08:27Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://promptmaster-pro.com/help-preview.png</image:loc>
+      <image:title>PromptMaster Pro Help Center</image:title>
+      <image:caption>Comprehensive guides and tutorials</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Blog -->
+  <url>
+    <loc>https://promptmaster-pro.com/blog</loc>
+    <lastmod>2025-12-14T20:08:27Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://promptmaster-pro.com/blog-preview.png</image:loc>
+      <image:title>AI Prompt Engineering Blog</image:title>
+      <image:caption>Latest insights and tutorials on prompt engineering</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Community -->
+  <url>
+    <loc>https://promptmaster-pro.com/community</loc>
+    <lastmod>2025-12-14T20:08:27Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- API Documentation -->
+  <url>
+    <loc>https://promptmaster-pro.com/api</loc>
+    <lastmod>2025-12-14T20:08:27Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Legal Pages -->
+  <url>
+    <loc>https://promptmaster-pro.com/privacy</loc>
+    <lastmod>2025-12-14T20:08:27Z</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://promptmaster-pro.com/terms</loc>
+    <lastmod>2025-12-14T20:08:27Z</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://promptmaster-pro.com/cookies</loc>
+    <lastmod>2025-12-14T20:08:27Z</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <!-- Status Page -->
+  <url>
+    <loc>https://promptmaster-pro.com/status</loc>
+    <lastmod>2025-12-14T20:08:27Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Security -->
+  <url>
+    <loc>https://promptmaster-pro.com/security</loc>
+    <lastmod>2025-12-14T20:08:27Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Category-specific pages for better SEO -->
+  <url>
+    <loc>https://promptmaster-pro.com/business-prompts</loc>
+    <lastmod>2025-12-14T20:08:27Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://promptmaster-pro.com/marketing-prompts</loc>
+    <lastmod>2025-12-14T20:08:27Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://promptmaster-pro.com/technical-prompts</loc>
+    <lastmod>2025-12-14T20:08:27Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>

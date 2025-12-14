@@ -1,0 +1,105 @@
+# Robots.txt for PromptMaster Pro
+# Optimized for Google Ads policy compliance and SEO
+
+User-agent: *
+Allow: /
+
+# Disallow sensitive areas
+Disallow: /api/private/
+Disallow: /dashboard/analytics/
+Disallow: /admin/
+Disallow: /_next/
+Disallow: /static/
+Disallow: /api/
+
+# Allow important pages
+Allow: /
+Allow: /generate
+Allow: /library
+Allow: /pricing
+Allow: /help
+Allow: /blog
+Allow: /community
+Allow: /privacy
+Allow: /terms
+Allow: /cookies
+Allow: /security
+Allow: /status
+
+# Allow specific assets
+Allow: /og-image.png
+Allow: /logo.png
+Allow: /favicon.ico
+Allow: /manifest.json
+Allow: /sw.js
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://promptmaster-pro.com/sitemap.xml
+
+# Host directive
+Host: https://promptmaster-pro.com
+
+# Google Ads policy compliance - prevent ad-serving conflicts
+# This site does not serve ads, so allow all crawlers
+User-agent: Googlebot
+Allow: /
+
+# Social media crawlers
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+# Prevent aggressive crawling
+User-agent: SemrushBot
+Crawl-delay: 10
+
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: MJ12bot
+Disallow: /
+
+# Performance optimization
+# Block access to large files that don't need indexing
+Disallow: *.pdf$
+Disallow: *.zip$
+Disallow: *.rar$
+
+# Allow search engines to access images
+User-agent: Googlebot-Image
+Allow: /
+Allow: /*.png$
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.gif$
+Allow: /*.webp$
+
+# Specific directives for Google Ads compliance
+# Mark this site as non-commercial for ad-free experience
+User-agent: GoogleAdSense
+Allow: /
+
+# Clean URLs for better SEO
+# All pages use clean URL structure - no parameters in robots.txt needed
+
+# 2025 SEO best practices
+# Include structured data access
+# JSON-LD scripts are automatically allowed
+
+# Privacy and security
+# Ensure no sensitive data is crawled
+# This is enforced through application-level security
+
+# Final note: This robots.txt is optimized for:
+# - Google Ads policy compliance (no ad conflicts)
+# - SEO performance
+# - Social media sharing
+# - 2025 best practices
